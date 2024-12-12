@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on applications to help the addiction recovery community
 - 📫 I can be found on linkedin, and most social medias (Cassie Norton in Ashland, Wi for FB)
 - 😄 Pronouns: Not picky
-- ⚡ Fun fact: Isaac Newton inveted the cat door
+- ⚡ Fun fact: Isaac Newton invented the cat door
 
 <!---
 NortCass/NortCass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
